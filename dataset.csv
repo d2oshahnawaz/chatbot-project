@@ -1,0 +1,38 @@
+question,intent
+hi,greeting
+hello,greeting
+hey,greeting
+good morning,greeting
+good evening,greeting
+hello there,greeting
+hi there,greeting
+good afternoon,greeting
+
+what courses are available,courses
+tell me about courses,courses
+which programs are offered,courses
+course list,courses
+college courses,courses
+what courses do you offer,courses
+available programs,courses
+
+how to apply admission,admission
+what is admission process,admission
+how can i get admission,admission
+admission details,admission
+how to get admission,admission
+apply for admission,admission
+
+where is the college located,location
+college location,location
+where is college,location
+college address,location
+college address please,location
+where is the campus located,location
+
+what are the fees,fees
+tell me fees,fees
+fees structure,fees
+college fees,fees
+fee details,fees
+how much is the fee,fees
